@@ -1,0 +1,4 @@
+config.py
+users.db
+__pycache__/
+venv/
